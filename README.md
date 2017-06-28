@@ -34,3 +34,6 @@ These are based on a free python textbook written by Prof. Pieter Spronck at Til
 #### Notes from our discussions:
 
 - How are floats reprensented in python and why does that lead to imprecision?: https://docs.python.org/3.1/tutorial/floatingpoint.html
+
+- To install NLTK via Anaconda, open the Anaconda Prompt and type:
+`conda install -c anaconda nltk=3.2.4`
