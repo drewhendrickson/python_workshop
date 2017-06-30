@@ -31,6 +31,19 @@ These are based on a free python textbook written by Prof. Pieter Spronck at Til
 - Comparing documents demo
 - NLTK
 
+### Thursday:
+
+- Other filetypes
+- Object oriented programming
+- Pandas
+- Plotting with Matplotlib
+
+### Friday:
+
+- Numpy
+- SciPy
+- Scikit-learn
+
 #### Notes from our discussions:
 
 - How are floats reprensented in python and why does that lead to imprecision?: https://docs.python.org/3.1/tutorial/floatingpoint.html
